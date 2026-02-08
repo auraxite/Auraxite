@@ -11,5 +11,3 @@
 
 <a href="https://github.com/auraxite/Auraxite"><img src="https://github-readme-stats.vercel.app/api?username=auraxite&theme=tokyonight&hide=commits,contribs&show_icons=true&custom_title=@auraxite&nbsp;GitHub&nbsp;stats"></a>
 <hr>
-
-<p>© 2020-2025 Kirill Kibizov</p>
